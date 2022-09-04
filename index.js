@@ -56,7 +56,7 @@ quizList = [
 ]
 
 function welcomeMessage() {
-  console.log(bgGreen("Lalith's Quiz"));
+  console.log(bgGreen("Atul's Quiz"));
   console.log("A quiz to check how well do you know me? ")
 
   console.log("\n");
